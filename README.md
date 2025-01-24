@@ -25,9 +25,6 @@ Building secure and scalable cloud infrastructure is a critical component of mod
 3️⃣ **Monitoring and Logging**:  
    - Integrate **Amazon CloudWatch** for centralized logging and real-time insights.  
 
-🔗 **GitHub Repository**:  
-Check out the complete Terraform code and configuration details here:  
-[GitHub Repository: Securing AWS Infrastructure with IAM](https://github.com/yourusername/aws-secure-infra-terraform)  
 
 📌 **Why This Matters**:  
 By automating infrastructure security with Terraform, we can:  
